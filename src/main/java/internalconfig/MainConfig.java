@@ -1,7 +1,7 @@
 package internalconfig;
 
 public final class MainConfig {
-    static final String TITLE = "Visions of Scattering Gold";
+    static final String TITLE = "Visions of Scattering Gold v1.1";
     static final String RESOURCE_FOLDER = "res";
     static final String MANIFEST_FILE = RESOURCE_FOLDER + "\\manifest.resourcemanifest";
     static final String PROPERTIES_FILE = RESOURCE_FOLDER + "\\properties.properties";

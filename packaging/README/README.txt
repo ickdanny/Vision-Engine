@@ -30,3 +30,9 @@ Writing: ickdanny
 Design: ickdanny
 
 Quality Assurance: Teacup
+
+----------------------
+v1.1
+June 10 2026
+- Bug fixes
+----------------------
