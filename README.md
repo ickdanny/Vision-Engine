@@ -17,8 +17,8 @@ To build the game, users require OpenJDK 25.0.3, although earlier versions will 
 Install VOSG as follows using Powershell:
 
 ```
-git clone https://www.github.com/ickdanny/todo
-cd todo
+git clone https://www.github.com/ickdanny/Visions-of-Scattering-Gold
+cd Visions-of-Scattering-Gold
 .\build.ps1
 ```
 
