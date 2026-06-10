@@ -1,0 +1,7 @@
+[set_upper_image][dialogue_2]
+[set_upper_text][Yes I'm sorry, but I had to let one through...]
+[stop]
+[set_lower_image][dialogue_p]
+[set_lower_text][Who are you talking to?]
+[stop]
+[stop]

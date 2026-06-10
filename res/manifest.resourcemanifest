@@ -1,0 +1,29 @@
+directory tempImageDirectory res\temp_images
+directory menuSpriteDirectory res\menus
+directory uiSpriteDirectory res\ui
+directory backgroundSpriteDirector res\backgrounds
+directory dialogueSpriteDirectory res\dialogue_sprites
+directory playerSpriteDirectory res\player
+directory enemySpriteDirectory res\enemies
+directory bossSpriteDirectory res\bosses
+directory enemySpriteProjectileDirectory res\enemy_projectiles
+directory playerProjectileSpriteDirectory res\player_projectiles
+directory pickupSpriteDirectory res\pickups
+directory dialogueDirectory res\dialogue
+midi 01 res\01.mid true 388
+midi 02 res\02.mid true 15360
+midi 03 res\03.mid true
+midi 04 res\04.mid true 11520
+midi 05 res\05.mid true 1900
+midi 06 res\06.mid true 1800
+midi 07 res\07.mid true 1900
+midi 08 res\08.mid true 1450
+midi 09 res\09.mid true
+midi 10 res\10.mid true
+midi 11 res\11.mid true 1900
+midi 12 res\12.mid true 1700
+midi 13 res\13.mid true 1900
+midi 14 res\14.mid true 1900
+midi 15 res\15.mid true 32640
+midi 16 res\16.mid false
+midi 16b res\16b.mid false
