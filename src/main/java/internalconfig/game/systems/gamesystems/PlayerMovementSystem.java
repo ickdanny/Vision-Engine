@@ -127,7 +127,7 @@ public class PlayerMovementSystem implements AbstractSystem<Double> {
                 toRet.setY(-1);
             }
             if(inputStates.down){
-                toRet.addY(1);
+                toRet.setY(1);
             }
             if(inputStates.left){
                 toRet.setX(-1);
