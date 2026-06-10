@@ -18,8 +18,8 @@ test {
     useJUnitPlatform()
 }
 
-
 jar {
+    archiveFileName = 'VOSG.jar'
     manifest {
         attributes(
             'Main-Class': 'internalconfig.Main'
