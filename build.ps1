@@ -12,15 +12,15 @@ jlink --add-modules java.base,java.desktop --output build\runtime
 # Package
 jpackage `
   --type app-image `
-  --name VOSG `
+  --name EU03_VOSG `
   --input .\build\libs `
   --main-jar VOSG.jar `
   --runtime-image .\build\runtime `
   --icon .\packaging\icon.ico
 
 # Copy resources and packaging
-cp -r res VOSG\
-cp -r packaging\* VOSG\
+cp -r res EU03_VOSG\
+cp -r packaging\* EU03_VOSG\
 
 # Zip it up
-Compress-Archive -Path VOSG -DestinationPath VOSG.zip
+Compress-Archive -Path EU03_VOSG -DestinationPath EU03_VOSG.zip

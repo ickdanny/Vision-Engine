@@ -24,4 +24,4 @@ cd Visions-of-Scattering-Gold
 
 ## Usage
 
-The build script should create the directory `VOSG` and the archive `VOSG.zip`. To launch the game, navigate to `VOSG` and run `VOSG.exe`.
+The build script should create the directory `EU03_VOSG` and the archive `EU03_VOSG.zip`. To launch the game, navigate to `EU03_VOSG` and run `EU03_VOSG.exe`.
