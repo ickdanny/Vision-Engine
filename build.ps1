@@ -1,7 +1,7 @@
 $ErrorActionPreference = "Stop"
 
 # Clean
-Remove-Item -Recurse -Force build,.gradle,VOSG,VOSG.zip -ErrorAction SilentlyContinue
+Remove-Item -Recurse -Force build,.gradle,EU03_VOSG,EU03_VOSG.zip -ErrorAction SilentlyContinue
 
 # Build
 .\gradlew.bat build
