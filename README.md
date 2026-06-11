@@ -10,7 +10,10 @@ To run the game, the following minimum requirements are stated:
 - Windows 8.1
 - 2GB RAM
 
-To build the game, users require OpenJDK 25.0.3, although earlier versions will most likely work. Users will also need Gradle 8.9.
+To build the game, the following are required:
+- OpenJDK 25.0.3 (earlier versions will most likely work)
+- Gradle 8.9
+- Powershell
 
 ## Installation
 
